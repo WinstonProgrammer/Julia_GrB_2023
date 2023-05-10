@@ -1,2 +1,2 @@
-# hola-mundo-julia
-Un programa de Julia que muestra "Hola mundo"
+# Julia_GrB_2023
+Programas de Julia para FLP.
